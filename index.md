@@ -11,7 +11,7 @@ Problem: There are students that come to UH Manoa from all over the world and wa
 
 Solution: With the Surfers' Spot app it will help UH students identify the surfbreaks that are most suitable for their skill level based on the direction of the swell, season and their location.  
 
-The idea behind this app is to list and categorize various beaches and Surfbreaks around Oahu. The breaks could be listed based off of their distance from the campus, skill level, wave direction (left or right), ideal swell direction, and ideal swell size. This app could be helpful for the students who have come to UH Manoa from other place and would like to know which beaches would be ideal to surf for their skill level. We could 
+The idea behind this app is to list and categorize various beaches and Surfbreaks around Oahu. The breaks could be listed based off of their distance from the campus, skill level, wave direction (left or right), ideal swell direction, and ideal swell size. This app could be helpful for the students who have come to UH Manoa from other place and would like to know which beaches would be ideal to surf for their skill level. We could include potential hazards as well as a basic description of the locations. Other informaton that could be added to the different locations is other activies that can be done. Such as, swimming, fishing, snorkeling, volleyball, etc. 
 
 * [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code.
 * [React](https://reactjs.org/) for component-based UI implementation and routing.
