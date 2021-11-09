@@ -7,6 +7,8 @@
 
 ## Overview
 
+Idea from [Constantine Peros](https://cperos.github.io/essays/final-project-idea.html)
+
 BowFolios is an example web application that provides pages to view and (in some cases) modify profiles, projects, and interests. It illustrates various technologies useful to ICS software engineering students, including:
 
 * [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code.
