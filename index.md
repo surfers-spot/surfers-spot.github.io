@@ -29,7 +29,7 @@ It also provides code that implements a variety of useful design concepts, inclu
 * Use of Meteor Assets to initialize the database (helpful when initialization exceeds settings file size limits).
 
 <div class="ui medium rounded images">
-  <img height="500px" align="center" class="ui image" src="../images/mock-example-page.PNG">
+  <img height="500px" align="center" class="ui image" src="../images/mock-example-page.png">
 </div>
 ## Team
 
