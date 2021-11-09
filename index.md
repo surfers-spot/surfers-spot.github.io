@@ -1,3 +1,5 @@
+# Surfer's Spot
+
 ## Table of contents
 
 * [Overview](#overview)
