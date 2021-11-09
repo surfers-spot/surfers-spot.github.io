@@ -28,7 +28,7 @@ It also provides code that implements a variety of useful design concepts, inclu
 
 ## Team
 
-BowFolios is designed, implemented, and maintained by [Philip Johnson](https://philipmjohnson.org).
+Surfers Spot is designed, implemented, and maintained by Kristi Chinen, Victor Ho, Micheal Lavers, Brennan Lincoln, and Aaron Thomas.
 
 
 
