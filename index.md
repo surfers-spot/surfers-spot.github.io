@@ -31,6 +31,7 @@ It also provides code that implements a variety of useful design concepts, inclu
 <div class="ui medium rounded images">
   <img height="500px" align="center" class="ui image" src="../images/mock-example-page.png">
 </div>
+
 ## Team
 
 Surfers Spot is designed, implemented, and maintained by Kristi Chinen, Victor Ho, Micheal Lavers, Brennan Lincoln, and Aaron Thomas.
