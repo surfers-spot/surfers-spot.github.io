@@ -28,9 +28,9 @@ It also provides code that implements a variety of useful design concepts, inclu
 * Authorization examples: certain pages are public (Profiles, Projects, Interests), while other pages require login (AddProject, Filter).
 * Use of Meteor Assets to initialize the database (helpful when initialization exceeds settings file size limits).
 
-<div class="ui medium rounded images">
-  <img align="center" class="ui image" src="../images/mock-example-page.png">
-</div>
+<p align="center">
+  <img src="../images/mock-example-page.png">
+</p>
 
 ## Team
 
