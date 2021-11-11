@@ -20,9 +20,9 @@ The idea behind this app is to list and categorize various beaches and surf brea
   <img src="images/mock-example-page.png">
 </p>
 
-##Mockup 
+## Mockup 
 <p align="center">
-<img src="images/Surfers'-Spot-Mockups.png">
+<img src="images/Surfers-Spot-Mockups.png">
 </p> 
 
 
