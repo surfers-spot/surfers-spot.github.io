@@ -3,6 +3,7 @@
 ## Table of contents
 
 * [Overview](#overview)
+* [Mockup](#mockup)
 * [Team](#team)
 
 ## Overview
@@ -19,7 +20,7 @@ The idea behind this app is to list and categorize various beaches and surf brea
   <img src="images/mock-example-page.png">
 </p>
 
-Below is a mock up for our Surfers' Spot app. 
+##Mockup 
 <p align="center">
 <img src="images/Surfers'-Spot-Mockups.png">
 </p> 
