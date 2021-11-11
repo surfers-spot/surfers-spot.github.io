@@ -23,9 +23,11 @@ The idea behind this app is to list and categorize various beaches and surf brea
 
 ## Mockup 
 
+This is a mockup of our homepage we are envisioning for our Surfers' Spot app.
 <p align="center">
     <img src="images/surfers-spot-mockups.png">
 </p>
+We are envisioning that there will be a separate page for each skill level which will give them all the information they need about a specific break, allow them to leave and search reviews, and view other activities that can be done. 
 
 <p align="center">
     <img src="images/surfers-spot-mockups-1.png">
