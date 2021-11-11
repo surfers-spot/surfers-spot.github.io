@@ -22,7 +22,7 @@ The idea behind this app is to list and categorize various beaches and surf brea
 
 ## Mockup 
 <p align="center">
-    <img src="doc/surfers-spot-mockups.png">
+    <img src="GitHub/surfers-spot-mockups.png">
 </p> 
 
 
