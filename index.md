@@ -21,7 +21,7 @@ The idea behind this app is to list and categorize various beaches and surf brea
 
 Below is a mock up for our Surfers' Spot app. 
 <p align="center">
-<img src="images/Surfers' Spot Mockups.jpg">
+<img src="images/Surfers'-Spot-Mockups.png">
 
 
 ## Team
