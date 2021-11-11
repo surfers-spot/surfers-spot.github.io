@@ -21,7 +21,7 @@ The idea behind this app is to list and categorize various beaches and surf brea
 
 ## Team
 
-Surfers Spot is designed, implemented, and maintained by Kristi Chinen, Victor Ho, Micheal Lavers, Brennan Lincoln, and Aaron Thomas.
+Surfers Spot is designed, implemented, and maintained by [Kristi Chinen](https://kristihchinen.github.io/), [Victor Ho](https://hovictor2000.github.io/), [Micheal Lavers](https://sync925.github.io/), [Brennan Lincoln](https://blincoln15.github.io/), and [Aaron Thomas](https://aaron-toomas.github.io/).
 
 
 
