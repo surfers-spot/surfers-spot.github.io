@@ -19,6 +19,11 @@ The idea behind this app is to list and categorize various beaches and surf brea
   <img src="images/mock-example-page.png">
 </p>
 
+Below is a mock up for our Surfers' Spot app. 
+<p align="center">
+<img src="images/Surfers' Spot Mockups.jpg">
+
+
 ## Team
 
 Surfers Spot is designed, implemented, and maintained by [Kristi Chinen](https://kristihchinen.github.io/), [Victor Ho](https://hovictor2000.github.io/), [Micheal Lavers](https://sync925.github.io/), [Brennan Lincoln](https://blincoln15.github.io/), and [Aaron Thomas](https://aaron-toomas.github.io/).
