@@ -5,6 +5,7 @@
 * [Overview](#overview)
 * [Mockup](#mockup)
 * [Deployment](#Deployment)
+  * [Deployment History](#DeploymentHistory)
 * [Github](#Github)
 * [Team](#team)
 
@@ -43,6 +44,26 @@ We are envisioning that there will be a separate page for each skill level which
 </p> 
 
 ## Deployment
+
+### Development History: Mockup 1
+We were working on the production of our first mockup on November 5th till November 11th 2021. We first created a homepage that will be the first thing users see when they open our app. 
+<p align="center">
+    <img src="images/surfers-spot-mockups.png">
+</p>
+
+We then created three other mockup pages that will be categorized based off of the skill level that will be needed to surf that break. Within the pages we have information that the users will need about the surf break, they will be able to leave and search reviews, and they can view other activities that can be done. 
+
+<p align="center">
+    <img src="images/surfers-spot-mockups-1.png">
+</p>
+
+<p align="center">
+    <img src="images/surfers-spot-mockups-2.png">
+</p>
+
+<p align="center">
+    <img src="images/surfers-spot-mockups-3.png">
+</p> 
 
 ## Github
 [Github](https://github.com/surfers-spot/surfers-spot)
