@@ -4,8 +4,9 @@
 
 * [Overview](#overview)
 * [Mockup](#mockup)
-* [Team](#team)
+* [Deployment](#Deployment)
 * [Github](#Github)
+* [Team](#team)
 
 ## Overview
 
@@ -41,13 +42,16 @@ We are envisioning that there will be a separate page for each skill level which
     <img src="images/surfers-spot-mockups-3.png">
 </p> 
 
+## Deployment
+
+## Github
+[Github](https://github.com/surfers-spot/surfers-spot)
 
 ## Team
 
 Surfers Spot is designed, implemented, and maintained by [Kristi Chinen](https://kristihchinen.github.io/), [Victor Ho](https://hovictor2000.github.io/), [Micheal Lavers](https://sync925.github.io/), [Brennan Lincoln](https://blincoln15.github.io/), and [Aaron Thomas](https://aaron-toomas.github.io/).
 
-## Github
-[Github](https://github.com/surfers-spot/surfers-spot)
+
 
 
 
