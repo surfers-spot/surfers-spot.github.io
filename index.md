@@ -1,6 +1,5 @@
-# Surfers' Spot
 
-## Table of contents
+# Table of contents
 
 * [Overview](#overview)
 * [Mockup](#mockup)
@@ -9,7 +8,7 @@
 * [Github](#Github)
 * [Team](#team)
 
-## Overview
+# Overview
 
 Idea from [Constantine Peros and his group](https://cperos.github.io/essays/final-project-idea.html)
 
@@ -23,11 +22,9 @@ The idea behind this app is to list and categorize various beaches and surf brea
   <img src="images/mock-example-page.png">
 </p>
 
-## Mockup 
+# Mockup
 
-
-
-## Deployment
+# Deployment
 
 ### Development History: Mockup 1
 We were working on the production of our first mockup on November 5th till November 11th 2021. We first created a homepage that will be the first thing users see when they open our app. 
@@ -49,10 +46,10 @@ We then created three other mockup pages that will be categorized based off of t
     <img src="images/surfers-spot-mockups-3.png">
 </p> 
 
-## Github
+# Github
 [Github](https://github.com/surfers-spot/surfers-spot)
 
-## Team
+# Team
 
 Surfers Spot is designed, implemented, and maintained by [Kristi Chinen](https://kristihchinen.github.io/), [Victor Ho](https://hovictor2000.github.io/), [Micheal Lavers](https://sync925.github.io/), [Brennan Lincoln](https://blincoln15.github.io/), and [Aaron Thomas](https://aaron-toomas.github.io/).
 
