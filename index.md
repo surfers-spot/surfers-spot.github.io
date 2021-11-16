@@ -1,3 +1,4 @@
+# Surfers' Spot
 
 # Table of contents
 
