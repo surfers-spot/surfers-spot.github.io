@@ -1,17 +1,18 @@
 # Surfers' Spot
 
 
-# Github
-[Github](https://github.com/surfers-spot/surfers-spot)
 
 # Table of contents
 
+* [GitHub](#github)
 * [Overview](#overview)
 * [Mockup](#mockup)
 * [Deployment](#Deployment)
   * [Deployment History](#DeploymentHistory)
-* [Github](#Github)
 * [Team](#team)
+
+# Github
+[Github](https://github.com/surfers-spot/surfers-spot)
 
 # Overview
 
@@ -51,8 +52,6 @@ We then created three other mockup pages that will be categorized based off of t
     <img src="images/surfers-spot-mockups-3.png">
 </p> 
 
-# Github
-[Github](https://github.com/surfers-spot/surfers-spot)
 
 # Team
 
