@@ -8,8 +8,8 @@
 * [Overview](#overview)
 * [Mockup](#mockup)
 * [Deployment](#deployment)
-* [Developer Guide](#developerguide)
-* [Development History](#developmenthistory)
+* [Developer Guide](#developer-guide)
+* [Development History](#development-history)
 * [Team](#team)
 
 # Github
