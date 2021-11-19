@@ -35,7 +35,7 @@ We created a logo to go with our topic and website.
 We also created 
 
 # Deployment
-###Installation 
+### Installation 
 
 First, [install Meteor](https://www.meteor.com/developers/install)
 
