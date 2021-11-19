@@ -16,7 +16,6 @@
 
 # Overview
 
-Idea from [Constantine Peros and his group](https://cperos.github.io/essays/final-project-idea.html)
 
 Problem: There are students that come to UH Manoa from all over the world and want to experience Hawaii as a whole, in order to do that they want to try surfing. Students that are coming come from various skill levels and would like to know where the most suitable location for surfing on Oahu would be for them. 
 
@@ -35,32 +34,44 @@ We created a logo to go with our topic and website.
   <img src="images/Surfers'%20Spot.png">
 </p>
 
+We also created 
+
 # Deployment
+###Installation 
 
-### Development History: Mockup 1
-We were working on the production of our first mockup on November 5th till November 11th 2021. We first created a homepage that will be the first thing users see when they open our app. 
-<p align="center">
-    <img src="images/surfers-spot-mockups.png">
-</p>
+First, [install Meteor](https://www.meteor.com/developers/install)
 
-We then created three other mockup pages that will be categorized based off of the skill level that will be needed to surf that break. Within the pages we have information that the users will need about the surf break, they will be able to leave and search reviews, and they can view other activities that can be done. 
+Second, download a copy of [Surfers' Spot](https://github.com/surfers-spot/surfers-spot) and clone it to your laptop 
 
-<p align="center">
-    <img src="images/surfers-spot-mockups-1.png">
-</p>
+Third, cd into the app/directory and install the libraries with 
 
-<p align="center">
-    <img src="images/surfers-spot-mockups-2.png">
-</p>
+`$ meteor npm install`
 
-<p align="center">
-    <img src="images/surfers-spot-mockups-3.png">
-</p> 
+Forth, run the system with 
+
+`$ meteor npm run start`
+
+If all goes well it will appear at [http://localhost:3000/](http://localhost:3000/) 
+
+# Development History
+
+###Milestone 1
+[Milestone 1](https://github.com/surfers-spot/surfers-spot/projects/1)
+
+***
+
+### Milestone 2
+[Milestone 2](https://github.com/surfers-spot/surfers-spot/projects/2) 
 
 
 # Team
 
-Surfers Spot is designed, implemented, and maintained by [Kristi Chinen](https://kristihchinen.github.io/), [Victor Ho](https://hovictor2000.github.io/), [Micheal Lavers](https://sync925.github.io/), [Brennan Lincoln](https://blincoln15.github.io/), and [Aaron Thomas](https://aaron-toomas.github.io/).
+Surfers Spot is designed, implemented, and maintained by: 
+* [Kristi Chinen](https://kristihchinen.github.io/)
+* [Victor Ho](https://hovictor2000.github.io/) 
+* [Micheal Lavers](https://sync925.github.io/)
+* [Brennan Lincoln](https://blincoln15.github.io/) 
+* [Aaron Thomas](https://aaron-toomas.github.io/)
 
 
 
