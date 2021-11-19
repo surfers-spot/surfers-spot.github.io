@@ -29,6 +29,11 @@ The idea behind this app is to list and categorize various beaches and surf brea
 </p>
 
 # Mockup
+We created a logo to go with our topic and website. 
+
+<p align="center">
+  <img src="images/Surfers'%20Spot.png">
+</p>
 
 # Deployment
 
