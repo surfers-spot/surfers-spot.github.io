@@ -52,7 +52,7 @@ We created a logo to go with our topic and website.
 </p>
 
 ### Adding a surf break
-
+Admins and users can add a surf break via the "Add Surf Break" tab on the top navigation bar. They must specify the name, swell type, direction, and location before adding it. They can also add an image and give a description that will give more information about the area. Like other activities to do or hazards to watch out for. 
 <p align="center">
   <img src="images/Add-A-Surf-Break.png">
 </p>
@@ -64,17 +64,36 @@ We created a logo to go with our topic and website.
 </p>
 
 ### Editing a surf break
-
+Admins are able to edit a surf break page by clicking on the edit button on the surf break page. 
 <p align="center">
   <img src="images/Edit-A-Surf-Break.png">
 </p>
 
 ### Editing a profile page
-
+For the edit profile page a name, your experience with surfing, and a profile is required. We are also requiring an email to people are able to connect with others.  
 <p align="center">
   <img src="images/Edit-Profile.png">
 </p>
 
+### Admin Page
+The admin homepage is the same as the user homepage, but with the admin user you are able to edit a surf break and see the usr profile directory. 
+<p align="center">
+  <img src="images/Admin-Page.png">
+</p>
+
+### Break Pages 
+<p align="center">
+  <img src="images/surfers-spot-mockups-1.png">
+</p>
+<p align="center">
+  <img src="images/surfers-spot-mockups-2.png">
+</p>
+<p align="center">
+  <img src="images/surfers-spot-mockups-3.png">
+</p>
+<p align="center">
+  <img src="images/surfers-spot-mockups.png">
+</p>
 # Deployment
 
 
