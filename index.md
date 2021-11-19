@@ -36,20 +36,19 @@ We also created
 
 # Deployment
 ### Installation 
+- First, [install Meteor](https://www.meteor.com/developers/install)
 
-First, [install Meteor](https://www.meteor.com/developers/install)
+- Second, download a copy of [Surfers' Spot](https://github.com/surfers-spot/surfers-spot) and clone it to your laptop 
 
-Second, download a copy of [Surfers' Spot](https://github.com/surfers-spot/surfers-spot) and clone it to your laptop 
-
-Third, cd into the app/directory and install the libraries with 
+- Third, cd into the app/directory and install the libraries with 
 
 `$ meteor npm install`
 
-Forth, run the system with 
+- Forth, run the system with 
 
 `$ meteor npm run start`
 
-If all goes well it will appear at [http://localhost:3000/](http://localhost:3000/) 
+- If all goes well it will appear at [http://localhost:3000/](http://localhost:3000/) 
 
 # Development History
 
