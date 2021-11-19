@@ -32,43 +32,43 @@ We created a logo to go with our topic and website.
   <img src="images/Surfers'%20Spot.png">
 </p>
 
-Landing Page
+### Landing Page
 
 <p align="center">
   <img src="images/Surfers'%20Spot%20Navigation%20age.png">
 </p>
 
-Footer for landing page
+### Footer for landing page
 
 <p align="center">
   <img src="images/Footer.png">
 </p>
 
-Reviews page
+### Reviews page
 
 <p align="center">
   <img src="images/Reviews.png">
 </p>
 
-Adding a surf break
+### Adding a surf break
 
 <p align="center">
   <img src="images/Add-A-Surf-Break.png">
 </p>
 
-Break directory page
+### Break directory page
 
 <p align="center">
   <img src="images/Break-Directory-Page.png">
 </p>
 
-Editing a surf break
+### Editing a surf break
 
 <p align="center">
   <img src="images/Edit-A-Surf-Break.png">
 </p>
 
-Editing a profile page
+### Editing a profile page
 
 <p align="center">
   <img src="images/Edit-Profile.png">
