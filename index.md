@@ -94,10 +94,9 @@ The admin homepage is the same as the user homepage, but with the admin user you
 <p align="center">
   <img src="images/surfers-spot-mockups.png">
 </p>
+
 # Deployment
 [Current Deployment](https://surfersspot.xyz/#/)
-
-# Deployment 
 
 # Developer Guide
 ### Installation 
