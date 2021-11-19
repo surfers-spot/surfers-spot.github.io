@@ -62,8 +62,17 @@ Break directory page
   <img src="images/Break-Directory-Page.png">
 </p>
 
+Editing a surf break
 
+<p align="center">
+  <img src="images/Edit-A-Surf-Break.png">
+</p>
 
+Editing a profile page
+
+<p align="center">
+  <img src="images/Edit-Profile.png">
+</p>
 
 # Deployment
 ### Installation 
