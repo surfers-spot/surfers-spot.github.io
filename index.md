@@ -9,7 +9,7 @@
 * [Mockup](#mockup)
 * [Deployment](#Deployment)
 * [Developer Guide](#developerguide)
-* [Deployment History](#DeploymentHistory)
+* [Development History](#DevelopmentHistory)
 * [Team](#team)
 
 # Github
