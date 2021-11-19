@@ -8,7 +8,8 @@
 * [Overview](#overview)
 * [Mockup](#mockup)
 * [Deployment](#Deployment)
-  * [Deployment History](#DeploymentHistory)
+* [Developer Guide](#developerguide)
+* [Deployment History](#DeploymentHistory)
 * [Team](#team)
 
 # Github
@@ -75,6 +76,9 @@ We created a logo to go with our topic and website.
 </p>
 
 # Deployment
+
+
+# Developer Guide
 ### Installation 
 - First, [install Meteor](https://www.meteor.com/developers/install)
 
