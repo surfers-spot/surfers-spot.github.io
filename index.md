@@ -57,11 +57,11 @@ After creating your account you will then be prompted with information to allow 
 In our footer we have a tab that gives users an overview of us and it gives a little overview of our purpose of our site and you are able to read some of our recent reviews and find surf lessons that are happening near you. 
 
 <p align="center">
-  <img src="images/About-Us.png">
+  <img src="images/Info.png">
 </p>
 
 <p align="center">
-  <img src="images/About-Us-1.png">
+  <img src="images/Info-1.png">
 </p>
 
 ### Random Break
