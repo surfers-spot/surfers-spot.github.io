@@ -61,6 +61,13 @@ In our footer we have a tab that gives users an overview of us and it gives a li
   <img src="images/About-Us.png">
 </p>
 
+### Random Break
+When accessing our random break link a random break will appear with its level of difficulty, location, and type of break. 
+
+<p align="center">
+  <img src="images/Random-Page.png">
+</p>
+
 
 
 
