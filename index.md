@@ -15,6 +15,9 @@
 # Github
 [Github](https://github.com/surfers-spot/surfers-spot)
 
+# Build Status
+![ci-badge](https://github.com/surfers-spot/surfers-spot/workflows/ci-surfers-spot/badge.svg)
+
 # Overview
 
 
