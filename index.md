@@ -36,12 +36,18 @@ This is the landing page users will see when they visit the site.
   <img src="images/Surfers'%20Spot%20Navigation%20age.png">
 </p>
 
-
-
-### Reviews page
+### Sign Up Page
+When wanting to create an account on our site you will be presented with this page. 
 
 <p align="center">
-  <img src="images/Reviews.png">
+  <img src="images/Sign-Up.png">
+</p>
+
+### Adding Your Information
+After creating your account you will then be prompted with information to allow for the site to narrow down your searches for the different breaks. 
+
+<p align="center">
+  <img src="images/Add-Stuff.png">
 </p>
 
 ### Adding a surf break
