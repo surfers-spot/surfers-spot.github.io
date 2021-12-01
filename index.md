@@ -29,21 +29,14 @@ The idea behind this app is to list and categorize various beaches and surf brea
 # User Guide
 This section will provide a walk through of the Surfers' Spot interface and its capabilities. 
 
-<p align="center">
-  <img src="images/Surfers'%20Spot.png">
-</p>
-
 ### Landing Page
+This is the landing page users will see when they visit the site. 
 
 <p align="center">
   <img src="images/Surfers'%20Spot%20Navigation%20age.png">
 </p>
 
-### Footer for landing page
 
-<p align="center">
-  <img src="images/Footer.png">
-</p>
 
 ### Reviews page
 
