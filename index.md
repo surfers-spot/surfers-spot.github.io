@@ -6,7 +6,7 @@
 
 * [GitHub](#github)
 * [Overview](#overview)
-* [Mockup](#mockup)
+* [User Guide](#user-guide)
 * [Deployment](#deployment)
 * [Developer Guide](#developer-guide)
 * [Development History](#development-history)
@@ -26,8 +26,8 @@ The idea behind this app is to list and categorize various beaches and surf brea
 
 
 
-# Mockup
-We created a logo to go with our topic and website. 
+# User Guide
+This section will provide a walk through of the Surfers' Spot interface and its capabilities. 
 
 <p align="center">
   <img src="images/Surfers'%20Spot.png">
