@@ -96,7 +96,7 @@ The admin homepage is the same as the user homepage, but with the admin user you
 </p>
 
 # Deployment
-[Current Deployment](https://surfersspot.xyz/#/)
+[Surfers' Spot](https://surfersspot.xyz/#/)
 
 # Developer Guide
 ### Installation 
@@ -122,7 +122,10 @@ The admin homepage is the same as the user homepage, but with the admin user you
 ***
 
 ### Final Project: Milestone 2
-[Milestone 2](https://github.com/surfers-spot/surfers-spot/projects/2) 
+[Milestone 2](https://github.com/surfers-spot/surfers-spot/projects/2)
+
+### Final Project: Milestone 3
+[Milestone 3](https://github.com/surfers-spot/surfers-spot/projects/3)
 
 
 # Team
