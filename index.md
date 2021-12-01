@@ -68,7 +68,27 @@ When accessing our random break link a random break will appear with its level o
   <img src="images/Random-Page.png">
 </p>
 
+### Popular Break
+Currently we are unable to determine a popular break so our default break that appears is Bowls. 
 
+<p align="center">
+  <img src="images/Bowls-Break.png">
+</p>
+
+### Surf Breaks 
+The three surf breaks that we currently have are Kewalos, Canoes, and Bowls. Each has their level of difficulty, type of break, location, a short description of the break and a picture.
+
+<p align="center">
+  <img src="images/Kewalos-Break.png">
+</p>
+
+<p align="center">
+  <img src="images/Canoes-Break.png">
+</p>
+
+<p align="center">
+  <img src="images/Bowls-Break.png">
+</p>
 
 
 
