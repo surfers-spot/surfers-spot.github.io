@@ -36,7 +36,7 @@ This section will provide a walk through of the Surfers' Spot interface and its 
 This is the landing page users will see when they visit the site. 
 
 <p align="center">
-  <img src="images/Surfers'%20Spot%20Navigation%20age.png">
+  <img src="images/Landing-Page.png">
 </p>
 
 ### Sign Up Page
@@ -57,11 +57,11 @@ After creating your account you will then be prompted with information to allow 
 In our footer we have a tab that gives users an overview of us and it gives a little overview of our purpose of our site and you are able to read some of our recent reviews and find surf lessons that are happening near you. 
 
 <p align="center">
-  <img src="images/About-Us-1.png">
+  <img src="images/About-Us.png">
 </p>
 
 <p align="center">
-  <img src="images/About-Us.png">
+  <img src="images/About-Us-1.png">
 </p>
 
 ### Random Break
