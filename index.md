@@ -61,23 +61,7 @@ In our footer we have a tab that gives users an overview of us and it gives a li
   <img src="images/About-Us.png">
 </p>
 
-### Break directory page
 
-<p align="center">
-  <img src="images/Break-Directory-Page.png">
-</p>
-
-### Editing a surf break
-Admins are able to edit a surf break page by clicking on the edit button on the surf break page. 
-<p align="center">
-  <img src="images/Edit-A-Surf-Break.png">
-</p>
-
-### Editing a profile page
-For the edit profile page a name, your experience with surfing, and a profile is required. We are also requiring an email to people are able to connect with others.  
-<p align="center">
-  <img src="images/Edit-Profile.png">
-</p>
 
 
 
