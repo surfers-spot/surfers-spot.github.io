@@ -64,6 +64,13 @@ In our footer we have a tab that gives users an overview of us and it gives a li
   <img src="images/Info-1.png">
 </p>
 
+### Adding a Break
+Admins can add a surf break to website by filling out a form and giving a name, location, image, type, difficulty, and description of the surf break. 
+
+<p align="center">
+  <img src="images/Add-Break.png">
+</p>
+
 ### Random Break
 When accessing our random break link a random break will appear with its level of difficulty, location, and type of break. 
 
