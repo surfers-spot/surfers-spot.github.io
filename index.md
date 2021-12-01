@@ -50,10 +50,15 @@ After creating your account you will then be prompted with information to allow 
   <img src="images/Add-Stuff.png">
 </p>
 
-### Adding a surf break
-Admins and users can add a surf break via the "Add Surf Break" tab on the top navigation bar. They must specify the name, swell type, direction, and location before adding it. They can also add an image and give a description that will give more information about the area. Like other activities to do or hazards to watch out for. 
+### About Us
+In our footer we have a tab that gives users an overview of us and it gives a little overview of our purpose of our site and you are able to read some of our recent reviews and find surf lessons that are happening near you. 
+
 <p align="center">
-  <img src="images/Add-A-Surf-Break.png">
+  <img src="images/About-Us.png">
+</p>
+
+<p align="center">
+  <img src="images/About-Us-1.png">
 </p>
 
 ### Break directory page
