@@ -45,7 +45,7 @@ The user also has the option to click on one of 3 randomly populated break pages
   <img src="images/Landing-Page-2.png">
 </p>
 
-### Search Bar Feature
+### Search Bar
 Here, as demonstrated in the image, the user can search for breaks in our currently populated directory of breaks. The search bar will filter breaks as the user inputs characters into the search bar in order to help the user find the specific break they are searching for. If the break exists the user can click the break's name to be linked to that break's page. If no such break is found then the dropdown tells the user "no results found" as depicted in the second image. 
 <p align ="center">
   <img src="images/Search-Bar.png">
@@ -124,7 +124,9 @@ Depicted below are example pages for the Kewalos, Canoes, and Bowls break pages.
   <img src="images/Bowls-Break.png">
 </p>
 
+### Leave a Review
 
+### Stay Connected
 
 # Deployment
 [Surfers' Spot](https://surfersspot.xyz/#/)
