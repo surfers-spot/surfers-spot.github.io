@@ -145,6 +145,40 @@ The stay connected feature in the footer will allow a user to input their email 
 </p>
 
 # Community Review
+
+## Gracie Howley
+- I love how many spots are featured on this website with details such as level of difficulty and whether it's a sand or reef break. 
+- It would be beyond amazing if live surf conditions could be included in each description. 
+- The “random” feature is totally unique to any other surf site I have seen and keeps things interesting. 
+- I appreciate that local lessons are incorporated into the site. 
+- I’m going to show this website to my family when they visit me next!
+
+## Tyler Stynes
+- The website was very easy to navigate and the aesthetic was clean and pleasant. 
+- The “random” button was a fun touch as well for finding new breaks. 
+- Really seems like a one stop shop with lessons tab included(good for beginners or people new to the area). 
+- Overall easy to use and informational. 
+- Some potential improvements would be to add live wave conditions for each site and maybe add a bit more detail in the surf spot descriptions(such as seasonal changes for each, average wave size, etc). 
+- Overall, useful and user friendly.
+
+## Ani Kawada:
+
+- Make link the address for the lessons to google maps so that viewers can quickly get access
+- If it is possible, add a filter on the directory page, so viewers can quickly choose what type of break they want, or a specific part of the island
+- If that is not possible maybe like put the beaches in order from easiest to hardest
+-  Make the get directions link easier to see
+- Otherwise, it looks good.
+
+## Dylan K.:
+- Likes the intuitive design, knew what the website was about instantly
+- Wants better visibility on things like buttons
+- Wants the phone and addresses in the Lessons page to be clickable
+
+## Jennah L.:
+- Would like more color
+- Thinks information about famous surfers would be interesting to add
+- Having videos on things like surfing or the locations would be nice
+
 ### Leave a Review
 
 
