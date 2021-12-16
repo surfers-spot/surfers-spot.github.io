@@ -171,7 +171,7 @@ The stay connected feature in the footer will allow a user to input their email 
 - Some potential improvements would be to add live wave conditions for each site and maybe add a bit more detail in the surf spot descriptions(such as seasonal changes for each, average wave size, etc). 
 - Overall, useful and user friendly.
 
-## Ani Kawada:
+## Ani K.:
 - Make link the address for the lessons to google maps so that viewers can quickly get access
 - If it is possible, add a filter on the directory page, so viewers can quickly choose what type of break they want, or a specific part of the island
 - If that is not possible maybe like put the beaches in order from easiest to hardest
