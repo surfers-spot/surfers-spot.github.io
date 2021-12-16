@@ -101,7 +101,7 @@ When accessing our random break link, a random break will appear with its level 
 </p>
 
 ### Popular Break
-As users continue to use the site, each break page gains site views. Each break page has a hidden property for page views, viewable only to the Admin in the break directory page, so that when the popular page link is clicked by a user, the user will be sent to the most popular page. Shown below is the current popular page and the admin's view of the break directory page, which shows that the page views correspond to the popular page. 
+As users continue to use the site, each break page gains site views. Each break page has a hidden property for page views, viewable only to the Admin in the break directory page, so that when the popular page link is clicked by a user, the user will be sent to the most popular page. Shown below is the current popular page and the admin view of the break directory page, which shows that the page views correspond to the popular page. 
 
 <p align="center">
   <img src="images/Popular-Page.png">
