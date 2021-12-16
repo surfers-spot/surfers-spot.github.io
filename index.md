@@ -140,7 +140,7 @@ Not all of our users may be experienced surfers. Here, beginner surfers and even
 ### Leave a Review
 While visiting a break page, users can leave a review for that break. Once the user has finished entering their review in the textfield and submit the review. 
 <p align="center">
-  <img src="images/Leave-Review.png">
+  <img src="images/Leave_Review.png">
 </p>
 Once submitted the review will appear above the leave a review submission area and will permanently be affixed there since the review gets updated into the review collection kept in the repository.  
 <p align="center">
