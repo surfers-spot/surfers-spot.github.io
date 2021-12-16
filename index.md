@@ -56,10 +56,15 @@ Here, as demonstrated in the image, the user can search for breaks in our curren
 </p>
 
 ### Sign Up Page
-When wanting to create an account on our site you will be presented with this page. 
+If you are new to the website you can create an account with us. You will be prompted with this page asking for your email and a password. 
 
 <p align="center">
-  <img src="images/Sign-Up.png">
+  <img src="images/resiger-your-page.png">
+</p>
+
+After creating an account with us you will be promted with this page everytime you log in. 
+<p align="center">
+  <img src="images/log-in-page.png">
 </p>
 
 ### Adding Your Information
