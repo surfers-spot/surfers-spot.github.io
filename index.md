@@ -54,6 +54,7 @@ Here, as demonstrated in the image, the user can search for breaks in our curren
 <p align ="center">
   <img src="images/Bad-Search-Bar.png">
 </p>
+
 ### Sign Up Page
 When wanting to create an account on our site you will be presented with this page. 
 
