@@ -130,8 +130,6 @@ Depicted below are example pages for the Kewalos, Canoes, and Bowls break pages.
   <img src="images/Bowls-Break.png">
 </p>
 
-# Community Review
-### Leave a Review
 
 ### Lessons Page
 Not all of our users may be experienced surfers. Here, beginner surfers and even those looking to improve their current skills can look for our top picks in Surf Schools. All of these schools are based out of Honolulu and have great recommendations. Users can get the name, phone number, location, and short testimonial from the school. 
@@ -145,6 +143,10 @@ The stay connected feature in the footer will allow a user to input their email 
 <p align="center">
   <img src="images/Stay-Connected.png">
 </p>
+
+# Community Review
+### Leave a Review
+
 
 # Deployment
 [Surfers' Spot](https://surfersspot.xyz/#/)
