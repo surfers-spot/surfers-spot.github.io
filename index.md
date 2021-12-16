@@ -102,6 +102,13 @@ As users continue to use the site, each break page gains site views. Each break 
   <img src="images/Admin-Directory-Page-Views.png">
 </p>
 
+### Directory Page
+Users that do not know the name of any breaks or wish to look at all of the current existing breaks can do so on the Directory Page. Here all of the currently added break pages are listed in alphabetical order with their name, location, difficulty, photo, and an option to view the page. 
+
+<p align="center">
+  <img src="images/Directory-Page.png">
+</p>
+
 ### Surf Breaks 
 The three surf breaks that we currently have are Kewalos, Canoes, and Bowls. Each has their level of difficulty, type of break, location, a short description of the break and a picture.
 
