@@ -53,7 +53,7 @@ Here, as demonstrated in the image, the user can search for breaks in our curren
 </p>
 <br>
 <p align ="center">
-  <img src="images/Bad-Search-Bar.png">
+  <img src="images/Wrong-Search-Bar.png">
 </p>
 
 ### Sign Up Page
