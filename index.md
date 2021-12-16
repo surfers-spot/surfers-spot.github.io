@@ -13,8 +13,8 @@
 * [Development History](#development-history)
 * [Team](#team)
 
-# Github
-[Github](https://github.com/surfers-spot/surfers-spot)
+# GitHub
+[GitHub](https://github.com/surfers-spot/surfers-spot)
 
 # Build Status
 ![ci-badge](https://github.com/surfers-spot/surfers-spot/workflows/ci-surfers-spot/badge.svg)
@@ -47,7 +47,7 @@ The user also has the option to click on one of 3 randomly populated break pages
 </p>
 
 ### Search Bar
-Here, as demonstrated in the image, the user can search for breaks in our currently populated directory of breaks. The search bar will filter breaks as the user inputs characters into the search bar in order to help the user find the specific break they are searching for. If the break exists the user can click the break's name to be linked to that break's page. If no such break is found then the dropdown tells the user "no results found" as depicted in the second image. 
+Here, as demonstrated in the image, the user can search for breaks in our currently populated directory of breaks. The search bar will filter breaks as the user inputs characters into the search bar in order to help the user find the specific break they are searching for. If the break exists, the user can click the break's name to be linked to that break's page. If no such break is found, then the dropdown tells the user "no results found" as depicted in the second image. 
 <p align ="center">
   <img src="images/Search-Bar.png">
 </p>
@@ -57,26 +57,26 @@ Here, as demonstrated in the image, the user can search for breaks in our curren
 </p>
 
 ### Sign Up Page
-If you are new to the website you can create an account with us. You will be prompted with this page asking for your email and a password. 
+If you are new to the website, you can create an account with us. You will be prompted with this page asking for your email and a password. 
 
 <p align="center">
   <img src="images/resiger-your-page.png">
 </p>
 
-After creating an account with us you will be promted with this page everytime you log in. 
+After creating an account with us, you will be prompted with this page everytime you log in. 
 <p align="center">
   <img src="images/log-in-page.png">
 </p>
 
 ### Adding Your Information
-After creating your account you will then be prompted with information to allow for the site to narrow down your searches for the different breaks. 
+After creating your account, you will then be prompted with information to allow for the site to narrow down your searches for the different breaks. 
 
 <p align="center">
   <img src="images/Add-Stuff.png">
 </p>
 
 ### About Us
-In our footer we have a tab that gives users an overview of us and it gives a little overview of our purpose of our site and you are able to read some of our recent reviews and find surf lessons that are happening near you. 
+In our footer we have a tab that gives users an overview of us, and it gives a little overview of our purpose of our site, and you are able to read some of our recent reviews and find surf lessons that are happening near you. 
 
 <p align="center">
   <img src="images/Info.png">
@@ -87,14 +87,14 @@ In our footer we have a tab that gives users an overview of us and it gives a li
 </p>
 
 ### Adding a Break
-Admins can add a surf break to website by filling out a form and giving a name, location, image, type, difficulty, and description of the surf break. 
+Admins can add a surf break to the website by filling out a form and giving a name, location, image, type, difficulty, and description of the surf break. 
 
 <p align="center">
   <img src="images/Add-Break.png">
 </p>
 
 ### Random Break
-When accessing our random break link a random break will appear with its level of difficulty, location, and type of break. 
+When accessing our random break link, a random break will appear with its level of difficulty, location, and type of break. 
 
 <p align="center">
   <img src="images/Random-Page.png">
@@ -116,7 +116,7 @@ Users that do not know the name of any breaks or wish to look at all of the curr
 </p>
 
 ### Surf Breaks Pages 
-Depicted below are example pages for the Kewalos, Canoes, and Bowls break pages. Each page provides the difficulty, type, location, a short description, a photo, a "Get Directions" link to the google maps search of the break location, and the option to leave a review at the bottom of the page. 
+Depicted below are example pages for the Kewalos, Canoes, and Bowls break pages. Each page provides the difficulty, type, location, a short description, a photo, a "Get Directions" link to the Google Maps search of the break location, and the option to leave a review at the bottom of the page. 
 
 <p align="center">
   <img src="images/Kewalos-Break.png">
@@ -134,7 +134,7 @@ Depicted below are example pages for the Kewalos, Canoes, and Bowls break pages.
 ### Leave a Review
 
 ### Lessons Page
-Not all of our users may be experienced surfers. Here beginner surfers and even those looking to improve their current skills can look for our top picks in Surf Schools. All of these schools are based out of Honolulu and have greate recommendations. Users can get the name, phone number, location, and short testimonial from the school. 
+Not all of our users may be experienced surfers. Here, beginner surfers and even those looking to improve their current skills can look for our top picks in Surf Schools. All of these schools are based out of Honolulu and have great recommendations. Users can get the name, phone number, location, and short testimonial from the school. 
 <p align="center">
   <img src="images/Lessons-Page.png">
 </p>
@@ -154,7 +154,7 @@ Not all of our users may be experienced surfers. Here beginner surfers and even 
 
 `$ meteor npm install`
 
-- Forth, run the system with 
+- Fourth, run the system with 
 
 `$ meteor npm run start`
 
