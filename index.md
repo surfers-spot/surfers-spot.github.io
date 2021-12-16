@@ -33,10 +33,15 @@ The idea behind this app is to list and categorize various beaches and surf brea
 This section will provide a walk through of the Surfers' Spot interface and its capabilities. 
 
 ### Landing Page
-This is the landing page users will see when they visit the site. 
+This is the landing page users will see when they visit the site. From here the user has the option of navigating to a directory of pages, a random break page, the most popular page, a page for surf lessons and a general about us page from the Navbar. A user can also login in at this point from the landing page. The user, furthermore, has the option to search for a break page where a dropdown feature will appear once they start typing the desired break. 
 
 <p align="center">
   <img src="images/Landing-Page-1.png">
+</p>
+
+The user also has the option to click on one of 3 randomly populated break pages on the landing page where an image, name, location and difficulty are described at first glance. Our footer also contains links similar to our Navbar and also houses our Stay Connected functionality for new users. 
+
+<p align ="center">
   <img src="images/Landing-Page-2.png">
 </p>
 
