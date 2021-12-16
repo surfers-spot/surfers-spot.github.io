@@ -36,7 +36,8 @@ This section will provide a walk through of the Surfers' Spot interface and its 
 This is the landing page users will see when they visit the site. 
 
 <p align="center">
-  <img src="images/Landing-Page.png">
+  <img src="images/Landing-Page-1.png">
+  <img src="images/Landing-Page-2.png">
 </p>
 
 ### Sign Up Page
