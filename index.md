@@ -140,7 +140,11 @@ Not all of our users may be experienced surfers. Here, beginner surfers and even
 </p>
 
 ### Stay Connected
-The stay connected feature in the footer will allow a user tp input their email and submit it to the admin. This email is added to the email collection in the GitHub repository that the admin can look up. 
+The stay connected feature in the footer will allow a user to input their email and submit it to the admin. This email is added to the email collection in the GitHub repository that the admin can look up.
+
+<p align="center">
+  <img src="images/Stay-Connected.png">
+</p>
 
 # Deployment
 [Surfers' Spot](https://surfersspot.xyz/#/)
