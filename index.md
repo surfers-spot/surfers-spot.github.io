@@ -144,6 +144,8 @@ The stay connected feature in the footer will allow a user to input their email 
   <img src="images/Stay-Connected.png">
 </p>
 
+### Leave a Review
+
 # Community Review
 
 ## Gracie Howley:
@@ -178,7 +180,7 @@ The stay connected feature in the footer will allow a user to input their email 
 - Thinks information about famous surfers would be interesting to add
 - Having videos on things like surfing or the locations would be nice
 
-### Leave a Review
+
 
 
 # Deployment
