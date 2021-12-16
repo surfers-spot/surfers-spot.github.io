@@ -7,6 +7,7 @@
 * [GitHub](#github)
 * [Overview](#overview)
 * [User Guide](#user-guide)
+* [Community Review](#community-review)
 * [Deployment](#deployment)
 * [Developer Guide](#developer-guide)
 * [Development History](#development-history)
@@ -129,6 +130,7 @@ Depicted below are example pages for the Kewalos, Canoes, and Bowls break pages.
   <img src="images/Bowls-Break.png">
 </p>
 
+# Community Review
 ### Leave a Review
 
 ### Lessons Page
