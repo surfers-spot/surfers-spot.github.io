@@ -110,7 +110,7 @@ Users that do not know the name of any breaks or wish to look at all of the curr
 </p>
 
 ### Surf Breaks Pages 
-Depicted below are example pages for the Kewalos, Canoes, and Bowls break pages.
+Depicted below are example pages for the Kewalos, Canoes, and Bowls break pages. Each page provides the difficulty, type, location, a short description, a photo, a "Get Directions" link to the google maps search of the break location, and the option to leave a review at the bottom of the page. 
 
 <p align="center">
   <img src="images/Kewalos-Break.png">
