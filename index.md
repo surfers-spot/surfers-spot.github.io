@@ -119,15 +119,15 @@ Users that do not know the name of any breaks or wish to look at all of the curr
 Depicted below are example pages for the Kewalos, Canoes, and Bowls break pages. Each page provides the difficulty, type, location, a short description, a photo, a "Get Directions" link to the Google Maps search of the break location, and the option to leave a review at the bottom of the page. 
 
 <p align="center">
-  <img src="images/Kewalos-Break.png">
+  <img src="images/Kewalos-updated.png">
 </p>
 
 <p align="center">
-  <img src="images/Canoes-Break.png">
+  <img src="images/Canoes-updated.png">
 </p>
 
 <p align="center">
-  <img src="images/Bowls-Break.png">
+  <img src="images/Bowls-Updated.png">
 </p>
 
 
