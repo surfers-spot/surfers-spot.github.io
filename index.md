@@ -126,6 +126,12 @@ Depicted below are example pages for the Kewalos, Canoes, and Bowls break pages.
 
 ### Leave a Review
 
+### Lessons Page
+Not all of our users may be experienced surfers. Here beginner surfers and even those looking to improve their current skills can look for our top picks in Surf Schools. All of these schools are based out of Honolulu and have greate recommendations. Users can get the name, phone number, location, and short testimonial from the school. 
+<p align="center">
+  <img src="images/Lessons-Page.png">
+</p>
+
 ### Stay Connected
 
 # Deployment
