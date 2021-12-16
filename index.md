@@ -137,14 +137,22 @@ Not all of our users may be experienced surfers. Here, beginner surfers and even
   <img src="images/Lessons-Page.png">
 </p>
 
+### Leave a Review
+While visiting a break page, users can leave a review for that break. Once the user has finished entering their review in the textfield and submit the review. 
+<p align="center">
+  <img src="images/Leave-Review.png">
+</p>
+Once submitted the review will appear above the leave a review submission area and will permanently be affixed there since the review gets updated into the review collection kept in the repository.  
+<p align="center">
+  <img src="images/Review-Left.png">
+</p> 
+
 ### Stay Connected
 The stay connected feature in the footer will allow a user to input their email and submit it to the admin. This email is added to the email collection in the GitHub repository that the admin can look up.
 
 <p align="center">
   <img src="images/Stay-Connected.png">
 </p>
-
-### Leave a Review
 
 # Community Review
 
@@ -179,9 +187,6 @@ The stay connected feature in the footer will allow a user to input their email 
 - Would like more color
 - Thinks information about famous surfers would be interesting to add
 - Having videos on things like surfing or the locations would be nice
-
-
-
 
 # Deployment
 [Surfers' Spot](https://surfersspot.xyz/#/)
