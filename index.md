@@ -109,8 +109,8 @@ Users that do not know the name of any breaks or wish to look at all of the curr
   <img src="images/Directory-Page.png">
 </p>
 
-### Surf Breaks 
-The three surf breaks that we currently have are Kewalos, Canoes, and Bowls. Each has their level of difficulty, type of break, location, a short description of the break and a picture.
+### Surf Breaks Pages 
+Depicted below are example pages for the Kewalos, Canoes, and Bowls break pages.
 
 <p align="center">
   <img src="images/Kewalos-Break.png">
